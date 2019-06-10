@@ -1,0 +1,161 @@
+ng new new-app
+'ng' is not recognized as an internal or external command,
+operable program or batch file.
+
+E:\New Project>npm install -g @angular/cli
+C:\Users\bharathi\AppData\Roaming\npm\ng -> C:\Users\bharathi\AppData\Roaming\npm\node_modules\@angular\cli\bin\ng
+
+> @angular/cli@8.0.2 postinstall C:\Users\bharathi\AppData\Roaming\npm\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+? Would you like to share anonymous usage data with the Angular Team at Google under
+Google’s Privacy Policy at https://policies.google.com/privacy? For more details and
+how to change this setting, see http://angular.io/analytics. No
++ @angular/cli@8.0.2
+added 228 packages from 175 contributors in 43.823s
+
+E:\New Project>ng new new-app
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? SCSS   [ http://sass-lang.com/documentation/file.SASS_REFERENCE.html#syntax ]
+CREATE new-app/angular.json (3521 bytes)
+CREATE new-app/package.json (1280 bytes)
+CREATE new-app/README.md (1023 bytes)
+CREATE new-app/tsconfig.json (438 bytes)
+CREATE new-app/tslint.json (1985 bytes)
+CREATE new-app/.editorconfig (246 bytes)
+CREATE new-app/.gitignore (629 bytes)
+CREATE new-app/browserslist (429 bytes)
+CREATE new-app/karma.conf.js (1019 bytes)
+CREATE new-app/tsconfig.app.json (210 bytes)
+CREATE new-app/tsconfig.spec.json (270 bytes)
+CREATE new-app/src/favicon.ico (5430 bytes)
+CREATE new-app/src/index.html (293 bytes)
+CREATE new-app/src/main.ts (372 bytes)
+CREATE new-app/src/polyfills.ts (2838 bytes)
+CREATE new-app/src/styles.scss (80 bytes)
+CREATE new-app/src/test.ts (642 bytes)
+CREATE new-app/src/assets/.gitkeep (0 bytes)
+CREATE new-app/src/environments/environment.prod.ts (51 bytes)
+CREATE new-app/src/environments/environment.ts (662 bytes)
+CREATE new-app/src/app/app-routing.module.ts (245 bytes)
+CREATE new-app/src/app/app.module.ts (393 bytes)
+CREATE new-app/src/app/app.component.html (1152 bytes)
+CREATE new-app/src/app/app.component.spec.ts (1098 bytes)
+CREATE new-app/src/app/app.component.ts (212 bytes)
+CREATE new-app/src/app/app.component.scss (0 bytes)
+CREATE new-app/e2e/protractor.conf.js (810 bytes)
+CREATE new-app/e2e/tsconfig.json (214 bytes)
+CREATE new-app/e2e/src/app.e2e-spec.ts (636 bytes)
+CREATE new-app/e2e/src/app.po.ts (251 bytes)
+
+> core-js@2.6.9 postinstall E:\New Project\new-app\node_modules\babel-runtime\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> core-js@2.6.9 postinstall E:\New Project\new-app\node_modules\karma\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> @angular/cli@8.0.2 postinstall E:\New Project\new-app\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"ia32"})
+
+added 1011 packages from 1041 contributors and audited 19008 packages in 104.766s
+found 0 vulnerabilities
+
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in browserslist.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/protractor.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.e2e-spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.po.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in karma.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app-routing.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/styles.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.app.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.spec.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tslint.json.
+The file will have its original line endings in your working directory
+    Successfully initialized git.
+
+E:\New Project>cd new-app
+
+E:\New Project\new-app>npm start
+
+> new-app@0.0.0 start E:\New Project\new-app
+> ng serve
+
+
+Date: 2019-06-09T22:37:37.138Z
+Hash: 0343b9ab59045282e561
+Time: 7379ms
+chunk {main} main.js, main.js.map (main) 9.78 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 248 kB [initial] [rendered]
+chunk {polyfills-es5} polyfills-es5.js, polyfills-es5.js.map (polyfills-es5) 380 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.6 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.93 MB [initial] [rendered]
+** Angular Live Development Server is listening on localhost:4500, open your browser on http://localhost:4500/ **
+i ?wdm?: Compiled successfully.
+i ?wdm?: Compiling...
+
+Date: 2019-06-09T22:38:40.959Z - Hash: 7fd19d8f485c450f46fe - Time: 1236ms
+5 unchanged chunks
+chunk {main} main.js, main.js.map (main) 10.1 kB [initial] [rendered]
+i ?wdm?: Compiled successfully.
+i ?wdm?: Compiling...
+
+Date: 2019-06-09T22:38:55.392Z - Hash: 487189962e26e87341ff - Time: 867ms
+5 unchanged chunks
+chunk {main} main.js, main.js.map (main) 10.1 kB [initial] [rendered]
+i ?wdm?: Compiled successfully.
+i ?wdm?: Compiling...
+
+Date: 2019-06-10T00:02:34.996Z - Hash: 487189962e26e87341ff - Time: 1730ms
+6 unchanged chunks
+i ?wdm?: Compiled successfully.
